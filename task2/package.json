@@ -1,0 +1,22 @@
+{
+  "name": "cybercell-task2-express",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This is an assignment to practice for routes and routes handlers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "CyberCell",
+    "BCET",
+    "Express",
+    "backend"
+  ],
+  "author": "Sahil Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
